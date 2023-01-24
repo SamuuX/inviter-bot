@@ -10,7 +10,7 @@
   "author": "I am Ben#6686",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^4.1.2",
+    "chalk": "^5.2.0",
     "discord.js": "^13.6.0",
     "moment": "^2.29.3",
     "simple-node-logger": "^21.8.12"
